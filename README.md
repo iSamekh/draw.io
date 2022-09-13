@@ -1,2 +1,3 @@
 # Diagramas e Pseudocódigos
-Diagramas e Pseudocódigos do curso de ADS.
+
+Diagramas e Pseudocódigos feitos pelo site "draw.io" para o curso de Análise e Desenvolvimento de Sistemas.
